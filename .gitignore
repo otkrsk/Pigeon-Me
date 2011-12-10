@@ -19,3 +19,6 @@
 
 # Ignore MacVim .swp files.
 *.swp
+
+# Ignore *.bak files.
+*.bak
